@@ -14,7 +14,7 @@ public class WelcomeActivity extends AppCompatActivity {
         TextView txtWelcome = (TextView) findViewById(R.id.txtWelcome);
         txtWelcome.setText("Welcome "+username);
         // Some comments added
-
+// sp
 
     }
 }
